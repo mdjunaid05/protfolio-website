@@ -65,7 +65,7 @@ const Work = () => {
               <h4>Tools & Features</h4>
               <p>Blockchain, Python, Decentralized Storage, Smart Contracts</p>
             </div>
-            <WorkImage image="/images/placeholder.webp" alt="Organ Donation Management System" />
+            <WorkImage image="/images/certificate.webp.png" alt="Organ Donation Management System" />
           </div>
         </div>
       </div>
